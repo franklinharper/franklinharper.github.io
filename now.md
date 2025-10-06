@@ -1,3 +1,9 @@
+---
+layout: page
+title: Now
+permalink: /now/
+---
+
 # Where
 
 I'm in Paris
