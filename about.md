@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Now
+permalink: /now/
 ---
 
-Some information about you!
+# Focusing on focus
 
-### More Information
+I made a distraction free phone by removing all the apps that that I end up wasting time on. I still use my normal phone but only when it is necessary.
 
-A place to include any other types of information that you'd like to include about yourself. 
+# Paris
 
-### Contact me
+Spending a month in the 13th arrondissemet of Paris. Mostly catching up with friends and family, visiting museums, and eating!
 
-[email@domain.com](mailto:email@domain.com)
+# Health
+
+Fighting entropy with the goal to be pain free and active for as long as possible.
