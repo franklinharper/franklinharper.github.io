@@ -8,7 +8,7 @@ permalink: /now/
 
 For years I've been battling against distractions caused by my phone. And I finally have a solution that works!
 
-It's the [Brick](https://getbrick.app/pages/story), and I love it! It is a hardware/app combo that allows me to selectively disable (aka brick) my distraction apps. A small piece of hardware is required to "unbrick" the phone, and that adds just enough friction to prevent me from using the apps I want to avoid during certain times of the day. When running on Android 16 the Brick app isn't yet perfect. The automatic brick/unbrick scheduling doesn't always work, but hopefully they'll be able to fix that bug soon. The great thing is that since I have broken my phone distraction habit, I don't even realize if the phone is bricked or not. My brain has learned new habits, and just assumes that I can't access the bricked apps when I'm not supposed to.
+It's the [Brick](https://getbrick.app/pages/story), and I love it! It's a hardware/software combo that allows me to selectively disable (aka brick) my distraction apps. A small piece of hardware is required to "unbrick" the those apps, and that extra step adds just enough friction to prevent me from using the apps I want to avoid during certain times of the day. When running on Android 16 the Brick app isn't yet perfect. The automatic brick/unbrick scheduling doesn't always work, but hopefully they'll be able to fix that bug soon. The great thing is that since I have broken my phone distraction habit, I don't even realize if the phone is bricked or not. My brain has learned new habits, and just assumes that I can't access the bricked apps when I'm not supposed to.
 
 # Building apartments
 
