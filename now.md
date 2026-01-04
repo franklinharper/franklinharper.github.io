@@ -4,25 +4,38 @@ title: Now
 permalink: /now/
 ---
 
-Frank's NOW (24th of December 2025 update)
+# Frank's NOW
 
-# Advent of Code 2025
+## 3rd of january 2026
+
+### AI coding
+
+I have jumped on the AI coding bandwagon.  It feels like a superpower being able to create software
+at the speed of my ideas, rather than the speed of my coding ability! It's so much fun that I'm
+hitting the limits on my Claude Code subscription every day. In fact, right now, I'm waiting for my Cloud Code timeout to end so that I can go back to working on my Dice Wars inspired game.
+
+# Previous updates
+
+## 24th of December 2025
+
+### Advent of Code 2025
 
 I'm doing the [Advent of code](https://adventofcode.com/) this year. It's a series of fun little Christmas themed coding challenges. The problems come out once a day in December. In general the problems get progressively harder. To make it more fun, there can be a social aspect by doing it with friends, having a leader board, sharing solutions, etc.
 
 In previous years, I never finished all of the problems. But this year I have the goal of getting all the way to the end!
 
-# Focusing on focus
+### Focusing on focus
+
 
 For years I've been battling against distractions caused by my phone. And I finally have a solution that works!
 
 It's the [Brick](https://getbrick.app/pages/story), and I love it! It's a hardware/software combo that allows me to selectively disable (aka brick) my distraction apps. A small piece of hardware is required to "unbrick" those apps, and that extra step adds just enough friction to prevent me from using the apps I want to avoid during certain times of the day. When running on Android 16 the Brick app isn't yet perfect. The automatic brick/unbrick scheduling doesn't always work, but hopefully they'll be able to fix that bug soon. The great thing is that since I have kicked my phone distraction habit, I don't even realize if the phone is bricked or not. My brain has learned new habits, and just assumes that I can't access the bricked apps when I have decided not to.
 
-# Building apartments
+### Building apartments
 
 I'm building 2 apartments in my backyard. They are going to be 2 x 1200 sq ft (110 sq meters). Construction started in December 2025, and should be finished by September 2026. Currently the existing garages are being demolished to make room for the new building.
 
-# Back Pain
+### Back Pain
 
 Applying the method described in the [Back Mechanic](https://a.co/d/fhumxke) book has been very effective!
 
