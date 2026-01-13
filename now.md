@@ -6,6 +6,16 @@ permalink: /now/
 
 # Frank's NOW
 
+## January 12th 2026
+
+### Battle Zone
+
+I'm using my new AI coding superpowers to build a game that I've wanted for many years, but never had the time, the focus, or the energy to actually make it.
+
+The game is like Dice Wars, or Risk. But it fixes the balance issues with Dice Wars, and is not turn based, so any play can attack at any time; which I hope will make the gameplay more exciting. My goal is to make a game that people enjoy playing.
+
+# Previous updates
+
 ## 3rd of january 2026
 
 ### AI coding
@@ -13,8 +23,6 @@ permalink: /now/
 I have jumped on the AI coding bandwagon.  It feels like a superpower being able to create software
 at the speed of my ideas, rather than the speed of my coding ability! It's so much fun that I'm
 hitting the limits on my Claude Code subscription every day. In fact, right now, I'm waiting for my Cloud Code timeout to end so that I can go back to working on my Dice Wars inspired game.
-
-# Previous updates
 
 ## 24th of December 2025
 
