@@ -6,6 +6,27 @@ permalink: /now/
 
 # Frank's NOW
 
+## March 22th 2026
+
+### Canary Islands
+
+I spent a week in the Canary Islands on a small boat with family and friends. The quarters were quite spartan.
+In my bunk, the distance between my head and the ceiling was only a couple of inches! I bumped my head during the
+night a few times, but eventually I got the hang of it, even while I was asleep.
+
+The slight discomforts were more than made up for by joy of spending days with my loved ones just relaxing, hiking, eating, exploring.
+
+###  Creating my own digital environment
+
+Many of the apps I use aren't a perfect fit for my needs. The current generation of AI coding agents is so powerful
+that I can now  build my own versions that work the way I want them to.
+
+I built my own Android web browser, and use it 95% of the time. I only go back to Chrome when a website uses
+a feature that I haven't yet bothered to implement on my browser. E.g. file downloads.
+
+The new app that I've started working on replaces multiple apps that I use regularly. It's a unified media reader/viewer
+for RSS, BlueSky, Twitter, Instagram, etc.
+
 ## January 12th 2026
 
 ### Battle Zone
@@ -22,6 +43,7 @@ The game is like Dice Wars, or Risk. But it fixes the balance issues with Dice W
 
 I have jumped on the AI coding bandwagon.  It feels like a superpower being able to create software
 at the speed of my ideas, rather than the speed of my coding ability! It's so much fun that I'm
+
 hitting the limits on my Claude Code subscription every day. In fact, right now, I'm waiting for my Cloud Code timeout to end so that I can go back to working on my Dice Wars inspired game.
 
 ## 24th of December 2025
