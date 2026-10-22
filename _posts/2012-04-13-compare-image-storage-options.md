@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Compare image storage options'
-old_id: 240
 ---
+
 
 Display list with images\n- baseline = image in same DB/table\n\nBest practice = load image async\n\n1st step remove image from SQL query\n- compare with baseline\n\n2 - compare after putting image in separate table\n3 - comparimage in separate DB/table\n\n\n
