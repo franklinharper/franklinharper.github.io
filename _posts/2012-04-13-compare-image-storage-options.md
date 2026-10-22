@@ -4,4 +4,16 @@ title: 'Compare image storage options'
 ---
 
 
-Display list with images\n- baseline = image in same DB/table\n\nBest practice = load image async\n\n1st step remove image from SQL query\n- compare with baseline\n\n2 - compare after putting image in separate table\n3 - comparimage in separate DB/table\n\n\n
+Display list with images
+- baseline = image in same DB/table
+
+Best practice = load image async
+
+1st step remove image from SQL query
+- compare with baseline
+
+2 - compare after putting image in separate table
+3 - comparimage in separate DB/table
+
+
+
